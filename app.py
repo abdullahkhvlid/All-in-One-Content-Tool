@@ -23,8 +23,8 @@ st.set_page_config(page_title="All-in-One Content Dashboard", layout="wide", pag
 st.title("All-in-One Content Tool")
 
 # Your API keys
-GEMINI_API_KEY = "AIzaSyDP0tjWlvx7i0MF9IeEqY0f2e-p9JIxa6Y"
-STABILITY_API_KEY = "sk-4GJySKv1qQhHQIHNltnVaXVVrLmiopdTVpglP9lfBI1QBI6Y"
+GEMINI_API_KEY = "Your API KEY"
+STABILITY_API_KEY = "Your API KEY"
 
 # Session state initialization
 if "video_history" not in st.session_state:
@@ -845,4 +845,5 @@ with tab6:
     st.markdown("""
     ** Built with ❤️ using Streamlit | Enhanced with Gemini AI + Stability AI**
     *Total Features: Job Scraping + Content Generation + Video Generation + Media Management*
+
     """)
