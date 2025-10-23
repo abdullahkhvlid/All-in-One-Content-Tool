@@ -7,7 +7,7 @@ A comprehensive content creation dashboard that combines AI-powered content gene
 ## Features
 
 ### Content Generation
-- AI-Powered Content Creation: Generate high-quality content using Google Gemini Pro API
+- AI-Powered Content Creation: Generate high-quality content using Google Gemini API
 - Multiple Variations: Create 2-5 different versions of content with varying styles
 - Content Enhancement: Expand, rewrite, improve, or summarize existing content
 - Blog Pipeline: Complete blog packages including main content, SEO meta descriptions, and social media snippets
